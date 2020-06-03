@@ -1,3 +1,5 @@
+
+-
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,7 +11,7 @@
       <div class="container">
         <h1 style="text-align:center">THE FILIFILI PROJECT</h1>
         <p style="text-align:center">A CHINESE-LANGUAGE VIDEO-SHARING WEBSITE WITHOUT AGRESSIVE CENSORSHIP</p>
-        <a class="btn" href="./FilifiliChinese.html">ä¸­æ–‡ç‰ˆ</a>
+        <a class="btn" href="./FilifiliChinese.html">中文版</a>
       </div>
     <header>
 
