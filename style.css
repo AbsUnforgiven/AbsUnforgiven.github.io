@@ -5,6 +5,11 @@
   width: 40%;
 }
 
+.linkcentre{
+  display:block;
+  text-align:center;
+}
+
 .textcen {
   text-align: center;
 }
