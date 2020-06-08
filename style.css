@@ -46,7 +46,6 @@ figcaption {
    width: 50%;
    padding: 4px;
    vertical-align: middle;
-   float: right;
-   margin: auto;
+   margin: 10px;
 }
 
