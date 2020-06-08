@@ -32,6 +32,10 @@ figcaption {
   text-align: center;
 }
 
+.section1 {
+   height: 350px;
+}
+
 .figureleft {
    width: 700px;
    float: left;
@@ -42,3 +46,4 @@ figcaption {
   padding: 4px;
   margin: auto;
 }
+
