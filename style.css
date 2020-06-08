@@ -34,6 +34,8 @@ figcaption {
 }
 
 .textsection1 {
+   height: 320px;
+   width: 600px;
    border: bold #cccccc solid;
    padding: 4px;
    margin: 5px;
