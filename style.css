@@ -67,9 +67,10 @@ figcaption {
 .textsection2 {
    border: 2px #cccccc solid;
    padding: 4px 10px;
+   line-height: 400px;
    vertical-align: middle;
    width: 50%;
    float: left;
-   margin-top: 5px;
+   margin: auto;
    text-align: justify;
 }
