@@ -18,7 +18,7 @@ figure {
   border: 1px #cccccc solid;
   padding: 4px;
   margin: auto;
-  float: left;
+  
 }
 
 figcaption {
@@ -27,4 +27,8 @@ figcaption {
   font-style: italic;
   padding: 2px;
   text-align: center;
+}
+
+.figureleft {
+   float: left;
 }
