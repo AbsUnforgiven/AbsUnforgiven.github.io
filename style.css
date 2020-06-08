@@ -30,6 +30,7 @@ figcaption {
 }
 
 .figureleft {
+   width: 600px;
    float: left;
 }
 
