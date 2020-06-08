@@ -43,7 +43,7 @@ figcaption {
 
 .textsection1 {
    border: 2px #cccccc solid;
-   padding: 4px;
+   padding: 4px 10px;
    vertical-align: middle;
    width: 50%;
    float: right;
