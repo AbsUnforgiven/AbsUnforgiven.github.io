@@ -61,13 +61,13 @@ figcaption {
 .figureright {
    width: 50%;
    float: right;
+   line-height: 400px;
    vertical-align: middle;
 }
 
 .textsection2 {
    border: 2px #cccccc solid;
    padding: 4px 10px;
-   line-height: 400px;
    vertical-align: middle;
    width: 50%;
    float: left;
