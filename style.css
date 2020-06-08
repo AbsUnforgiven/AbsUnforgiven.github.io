@@ -34,7 +34,7 @@ figcaption {
 }
 
 .textsection1 {
-   border: 1px #cccccc solid;
+   border: thick #cccccc solid;
   padding: 4px;
   margin: auto;
 }
