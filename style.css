@@ -32,3 +32,9 @@ figcaption {
 .figureleft {
    float: left;
 }
+
+.textsection1 {
+   display:inline-block;
+   padding: 4px;
+   margin: 5px;
+}
