@@ -35,16 +35,18 @@ figure {
 }
 
 figcaption {
-  background-color: black;
+  background-color: hsla(32, 80%, 70%, 70%);
   color: white;
+  width: 30%;
   font-style: italic;
   padding: 2px;
   text-align: center;
 }
 
 .wholetext {
-  border: 4px solid black;
-  background: hsl(270, 60%, 85%);
+  border: 3px solid black;
+  background: hsl(270, 60%, 90%);
+  border-radius: 10px;
 }
 
 .section1 {
