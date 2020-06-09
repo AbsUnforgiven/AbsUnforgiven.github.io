@@ -43,6 +43,7 @@ figcaption {
 }
 
 .wholetext {
+  border: 4px solid black;
   background: hsl(270, 60%, 85%);
 }
 
