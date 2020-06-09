@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body{
+  background-color: #f0f8ff;
+}
+
 .centreimg {
   display: block;
   margin-left: auto;
