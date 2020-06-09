@@ -37,7 +37,7 @@ figure {
 figcaption {
   background-color: hsla(32, 80%, 70%, 70%);
   color: white;
-  width: 30%;
+  width: 60%;
   font-style: italic;
   padding: 2px;
   text-align: center;
@@ -46,7 +46,7 @@ figcaption {
 .wholetext {
   border: 3px solid black;
   background: hsl(270, 60%, 90%);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .section1 {
