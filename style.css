@@ -68,7 +68,7 @@ figcaption {
    height: 420px;
    border: 4px solid black;
    margin: 20px;
-   background: #e6e6fa;
+   background: hsl(270, 60%, 50%);;
 }
 
 .figureright {
