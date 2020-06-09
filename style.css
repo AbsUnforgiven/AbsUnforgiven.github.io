@@ -46,7 +46,7 @@ figcaption {
    height: 365px;
    border: 4px solid black;
    margin: 20px;
-   background: hsl(270, 80%, 70%);
+   background: hsl(270, 60%, 80%);
 }
 
 .figureleft {
@@ -68,7 +68,7 @@ figcaption {
    height: 420px;
    border: 4px solid black;
    margin: 20px;
-   background: hsl(270, 80%, 50%);;
+   background: hsl(270, 60%, 60%);;
 }
 
 .figureright {
