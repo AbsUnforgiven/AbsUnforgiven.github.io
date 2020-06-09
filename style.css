@@ -42,6 +42,10 @@ figcaption {
   text-align: center;
 }
 
+.wholetext {
+  background: hsl(270, 60%, 85%);
+}
+
 .section1 {
    height: 365px;
    /*border: 4px solid black;
