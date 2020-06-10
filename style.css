@@ -43,6 +43,8 @@ figcaption {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 40px;
+  border-radius: 5px;
 }
 
 .wholetext {
@@ -64,7 +66,7 @@ figcaption {
 }
 
 .textsection1 {
-   border: 2px #cccccc solid;
+   /*border: 2px #cccccc solid;*/
    padding: 4px 10px;
    vertical-align: middle;
    width: 50%;
@@ -88,7 +90,7 @@ figcaption {
 }
 
 .textsection2 {
-   border: 2px #cccccc solid;
+   /*border: 2px #cccccc solid;*/
    padding: 4px 10px;
    vertical-align: middle;
    width: 50%;
