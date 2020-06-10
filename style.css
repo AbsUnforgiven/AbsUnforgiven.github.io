@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+header {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
 body{
   background-color: #f0f8ff;
   font-size: 100%;
