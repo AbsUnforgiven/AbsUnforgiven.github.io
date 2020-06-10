@@ -58,6 +58,7 @@ figcaption {
   border: 3px solid black;
   background: hsl(270, 60%, 90%);
   border-radius: 20px;
+  padding-bottom: 20px;
 }
 
 .section1 {
