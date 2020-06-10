@@ -46,10 +46,6 @@ figcaption {
   border-radius: 5px;
 }
 
-#FigImg1 {
-  padding-right: 0px;
-}
-
 #FigCap1 {
   margin-bottom: 0px;
 }
@@ -76,6 +72,8 @@ figcaption {
    width: 50%;
    float: left;
    margin-top: 40px;
+   position: relative;
+   left: 30px;
 }
 
 .textsection1 {
