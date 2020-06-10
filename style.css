@@ -114,6 +114,7 @@ figcaption {
    /*border: 4px solid black;
    margin: 20px;
    background: hsl(270, 60%, 85%);*/
+   overflow: auto;
 }
 
 .figureright {
