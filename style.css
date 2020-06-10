@@ -46,6 +46,10 @@ figcaption {
   border-radius: 5px;
 }
 
+#FigImg1 {
+  padding-right: 20px;
+}
+
 #FigCap1 {
   margin-bottom: 0px;
 }
