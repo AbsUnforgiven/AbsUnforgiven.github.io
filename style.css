@@ -43,8 +43,15 @@ figcaption {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 40px;
   border-radius: 5px;
+}
+
+#FigCap1 {
+  margin-bottom: 20px;
+}
+
+#FigCap1 {
+  margin-bottom: 40px;
 }
 
 .wholetext {
