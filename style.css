@@ -65,12 +65,14 @@ figcaption {
    /*border: 4px solid black;
    margin: 20px;
    background: hsl(270, 60%, 85%);*/
+   
 }
 
 .figureleft {
    width: 50%;
    float: left;
    margin-top: 40px;
+   padding-right: 5px;
 }
 
 .textsection1 {
