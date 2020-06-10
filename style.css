@@ -29,6 +29,10 @@ body{
   text-align: center;
 }
 
+.SmallHeader {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
 figure {
   /*border: 1px #cccccc solid;*/
   padding: 4px;
