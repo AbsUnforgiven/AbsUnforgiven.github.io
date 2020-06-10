@@ -127,7 +127,7 @@ figcaption {
    /*border: 2px #cccccc solid;*/
    padding: 4px 5px 4px 40px;
    vertical-align: middle;
-   width: 100%;
+   width: auto;
    float: left;
    margin: auto;
    text-align: justify;
