@@ -11,6 +11,10 @@ body{
   font-size: 100%;
 }
 
+p {
+  font-family: "Verdana", "Geneva", sans-serif;
+}
+
 .centreimg {
   display: block;
   margin-left: auto;
@@ -128,6 +132,6 @@ figcaption {
 }
 
 .slogan {
-font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-family: "Trebuchet MS", "Helvetica", sans-serif;
 font-size: 2em;  
 }
