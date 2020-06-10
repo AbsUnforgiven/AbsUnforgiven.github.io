@@ -125,10 +125,10 @@ figcaption {
 
 .textsection2 {
    /*border: 2px #cccccc solid;*/
+   display: inline-block;
    padding: 4px 5px 4px 40px;
    vertical-align: middle;
    min-width: 50%;
-   max-width: 100%;
    float: left;
    margin: auto;
    text-align: justify;
