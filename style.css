@@ -74,7 +74,7 @@ figcaption {
 
 .textsection1 {
    /*border: 2px #cccccc solid;*/
-   padding: 4px 20px 4px 5px;
+   padding: 4px 40px 4px 5px;
    vertical-align: middle;
    width: 50%;
    float: right;
@@ -98,7 +98,7 @@ figcaption {
 
 .textsection2 {
    /*border: 2px #cccccc solid;*/
-   padding: 4px 5px 4px 20px;
+   padding: 4px 5px 4px 40px;
    vertical-align: middle;
    width: 50%;
    float: left;
