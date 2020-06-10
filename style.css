@@ -105,6 +105,6 @@ figcaption {
    vertical-align: middle;
    width: 50%;
    float: left;
-   margin: auto;
+   margin-bottom: 30px;
    text-align: justify;
 }
