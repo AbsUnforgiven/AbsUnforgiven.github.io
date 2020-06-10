@@ -39,6 +39,7 @@ p {
 
 .SmallHeader {
   font-family:"Comic Sans MS", cursive, sans-serif;
+  color: hsl(300, 90%, 60%);
 }
 
 figure {
