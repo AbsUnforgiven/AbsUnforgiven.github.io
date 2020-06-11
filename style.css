@@ -72,7 +72,7 @@ figcaption {
 }
 
 .wholetext {
-  border: 3px solid black;
+  /*border: 3px solid black;*/
   background: hsl(270, 60%, 90%);
   border-radius: 20px;
   padding-bottom: 20px;
