@@ -131,7 +131,7 @@ figcaption {
    vertical-align: middle;
    /*width: 50%;*/
    /*float: left;*/
-   margin: auto;
+   margin-top: 20px;
    text-align: justify;
 }
 
