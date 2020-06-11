@@ -130,7 +130,7 @@ figcaption {
    padding: 4px 5px 4px 40px;
    vertical-align: middle;
    /*width: 50%;*/
-   float: left;
+   /*float: left;*/
    margin-top: 20px;
    text-align: justify;
 }
