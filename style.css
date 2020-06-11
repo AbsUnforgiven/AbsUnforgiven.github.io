@@ -3,7 +3,7 @@
 }
 
 header {
-  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-family:"Comic Sans MS","ZCOOL KuaiLe", cursive, sans-serif;
 }
 
 body{
@@ -46,7 +46,7 @@ p {
 }
 
 .SmallHeader {
-  font-family:"Comic Sans MS", "Microsoft YaHei", cursive, sans-serif;
+  font-family:"Comic Sans MS", "ZCOOL KuaiLe", cursive, sans-serif;
   color: hsl(20, 80%, 50%);
   padding-left: 30px;
 }
@@ -141,6 +141,6 @@ figcaption {
 }
 
 .slogan {
-font-family: "Comic Sans MS", cursive, sans-serif;
+font-family: "Comic Sans MS", "ZCOOL KuaiLe" cursive, sans-serif;
 font-size: 2em;  
 }
