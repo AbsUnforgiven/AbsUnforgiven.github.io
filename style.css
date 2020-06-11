@@ -13,7 +13,8 @@ body{
 
 p {
   /*font-family: "Verdana", "Geneva", sans-serif;*/
-  font-fmaily: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+  font-fmaily: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: justify;
 }
 
 .centreimg {
@@ -103,11 +104,10 @@ figcaption {
 .textsection1 {
    /*border: 2px #cccccc solid;*/
    padding: 4px 40px 4px 5px;
-   vertical-align: middle;
+   /*vertical-align: middle;*/
    /*width: 50%;*/
    /*float: right;*/
    margin-top: 30px;
-   text-align: justify;
 }
 
 .section2 {
@@ -129,11 +129,10 @@ figcaption {
    /*border: 2px #cccccc solid;*/
    /*display: inline-block;*/
    padding: 4px 5px 4px 40px;
-   vertical-align: middle;
+   /*vertical-align: middle;*/
    /*width: 50%;*/
    /*float: left;*/
    margin-top: 20px;
-   text-align: justify;
 }
 
 .slogan {
