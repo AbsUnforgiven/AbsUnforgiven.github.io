@@ -39,6 +39,11 @@ p {
   text-align: center;
 }
 
+.VideoCap {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+}
+
 .SmallHeader {
   font-family:"Comic Sans MS", cursive, sans-serif;
   color: hsl(20, 80%, 50%);
