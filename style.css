@@ -39,7 +39,7 @@ p {
 
 .SmallHeader {
   font-family:"Comic Sans MS", cursive, sans-serif;
-  color: hsl(30, 80%, 50%);
+  color: hsl(20, 80%, 50%);
   padding-left: 30px;
 }
 
@@ -128,7 +128,7 @@ figcaption {
    display: inline-block;
    padding: 4px 5px 4px 40px;
    vertical-align: middle;
-   width: 50%;
+   /*width: 50%;*/
    float: left;
    margin: auto;
    text-align: justify;
