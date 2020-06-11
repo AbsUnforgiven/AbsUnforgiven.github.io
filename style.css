@@ -12,7 +12,8 @@ body{
 }
 
 p {
-  font-family: "Verdana", "Geneva", sans-serif;
+  /*font-family: "Verdana", "Geneva", sans-serif;*/
+  font-fmaily: "Lucida Sans Unicode", "Lucida Grande", sans-serif
 }
 
 .centreimg {
